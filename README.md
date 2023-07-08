@@ -43,7 +43,9 @@ ___
    * After the process of Scraping end it will send the CSV file to your email.
    * The whole process works on a single click of a button.
 ---
-#### Connect with me: 
-[Linkedin](https://www.linkedin.com/in/sauravsinghhhh/) [Portfolio](https://saurav2021c.github.io/Portfolio-project/)
+#### **Connect with me:** 
+<p>
+ <a href="https://www.linkedin.com/in/sauravsinghhhh/" target="_blank" rel="noreferrer"><img src="https://github.com/saurav2021c/Portfolio-project/blob/master/src/images/LinkedIN_black.png" width="35" /></a>
+</p>
 
 
